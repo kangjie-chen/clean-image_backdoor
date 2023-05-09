@@ -35,4 +35,4 @@ These codes are the minimal implementation of this work, and other experimental 
     ```
 
 ## Something need to be noticed
-- The model file "tresnet_l", which will be downloaded automaticly, is the backbone in ML-Decoder rather than the final model we want.
+- The model file "tresnet_l", which will be downloaded automatically, is the backbone in ML-Decoder rather than the final model we want.
